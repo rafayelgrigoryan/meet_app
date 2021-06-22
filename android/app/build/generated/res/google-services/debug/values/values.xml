@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">782334572445-9aqogil8gudo7mjc7f491771mi218m80.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">782334572445</string>
+    <string name="google_api_key" translatable="false">AIzaSyAC2DiamOS3xORiETMr3RlOoaeYAKH3mbU</string>
+    <string name="google_app_id" translatable="false">1:782334572445:android:b6af0b371f6aafb7bea174</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAC2DiamOS3xORiETMr3RlOoaeYAKH3mbU</string>
+    <string name="google_storage_bucket" translatable="false">meet-app-f5900.appspot.com</string>
+    <string name="project_id" translatable="false">meet-app-f5900</string>
+</resources>

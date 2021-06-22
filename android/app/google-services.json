@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "782334572445",
+    "project_id": "meet-app-f5900",
+    "storage_bucket": "meet-app-f5900.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782334572445:android:b6af0b371f6aafb7bea174",
+        "android_client_info": {
+          "package_name": "com.example.meet_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782334572445-9aqogil8gudo7mjc7f491771mi218m80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC2DiamOS3xORiETMr3RlOoaeYAKH3mbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782334572445-9aqogil8gudo7mjc7f491771mi218m80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
